@@ -1,11 +1,11 @@
 Part,Link
-ADXL 345, https://www.microcenter.com/product/504125/adafruit-industries-adxl345-triple-axis-accelerometer
+Gyroscope, Already have it
 2 * 2 Perf Board, https://www.adafruit.com/product/2670
-Coin Cell, https://www.microcenter.com/product/659289/duracell-cr2032-3-volt-lithium-coin-cell-battery-4-pack
-Coin Cell Holder,https://www.microcenter.com/product/632409/philmore-coin-cell-holder
+LiPo Battery, Already have it
 ESP32 C3, https://www.ebay.com/itm/326756460861
 Joystick Module, Already have it
 Buttons, Already have it
+
 
 
 
